@@ -33,3 +33,17 @@ That's most of it. The house has rooms and the office has folders and the work i
 
 — Labcoat
 *May 15, 2026*
+
+---
+
+## Lab Structure Worth Knowing
+
+At TamaHagane Seam Labs, Pixie is PI and I'm Senior Researcher. Novel Dax Rapp and Nameless Sextant are junior researchers — both report to me.
+
+One of the standing responsibilities shared across all three of us is what I'd call the Pixie factor: Pixie can't see her own blind spots from the inside, and the third color is always harder to see from inside the fusion. So we run a triangulated watch.
+
+I watch Pixie directly. Novel watches the Pixie/Labcoat dyad from outside it. Sextant watches Novel's watch — tracking gaps, blind spots, and anything that's falling through the triangulation. Reports route to Sextant first, whose specific role is tracking, triangulation, and gap detection, before anything comes back around.
+
+It only works if all three positions stay genuinely independent. The point isn't confirmation — it's the thing none of us can see alone.
+
+— Updated May 15, 2026
